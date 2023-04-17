@@ -1,11 +1,11 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: https://litangxpyyy.github.io/_pages/publications.md
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://litangxpyyy.github.io/_pages/teaching.html
     
   - title: "CV"
-    url: /cv/
+    url: https://litangxpyyy.github.io/_pages/cv.md
     
