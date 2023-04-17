@@ -1,4 +1,12 @@
-
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /_pages/cv.md
+  - /cv.html
+---
 Education
 ======
 * B.S. in Taiyuan University of Technology, 2016-2020
