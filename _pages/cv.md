@@ -1,5 +1,5 @@
 ---
-permalink: /_pages/cv.md
+permalink: [/_pages/cv.md](https://litangxpyyy.github.io/_pages/cv.md)
 title: "CV"
 excerpt: "CV"
 author_profile: true
