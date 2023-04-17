@@ -1,11 +1,11 @@
 ---
-permalink: /
+permalink: /_pages/cv.md
 title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /_pages/cv.md
-  - /cv.html
+  - /_pages/cv.md
 ---
 Education
 ======
