@@ -1,12 +1,10 @@
 ---
 permalink: /_pages/cv.md
-title: "About me"
-excerpt: "About me"
+title: "CV"
+excerpt: "CV"
 author_profile: true
-redirect_from: 
-  - /_pages/cv.md
-  - /_pages/cv.md
 ---
+
 Education
 ======
 * B.S. in Taiyuan University of Technology, 2016-2020
